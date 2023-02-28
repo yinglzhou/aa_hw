@@ -53,3 +53,7 @@
 //   console.log(x);
 // }
 // mysteryScoping5()
+
+function madLib(verb, adj, noun) {
+    console.log("We shall" +verb + "the" + adj + noun);
+}
